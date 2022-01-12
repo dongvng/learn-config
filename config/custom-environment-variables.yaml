@@ -1,0 +1,8 @@
+Customer:
+  dbConfig:
+    host: HOST_VAR
+    port: HOST_PORT
+    dbName: CUSTOMERS
+  credit:
+    initialLimit: INITIAL_LIMIT
+    initialDays: INITIAL_DAYS

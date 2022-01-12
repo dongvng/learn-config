@@ -1,0 +1,9 @@
+Customer:
+  dbConfig:
+    host: localhost - env -> DEV
+    port: 5984
+    dbName: customers
+  credit:
+    initialLimit: 100
+    initialDays: 1
+name: 'dong - DEV'
